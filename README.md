@@ -1,18 +1,19 @@
 <p align="left">
   <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
 </p>
-### Hi there 👋🏻‍💻  Sergio Grimaldo. 
+
+## Hi there 👋🏻‍💻  Sergio Grimaldo. 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="450"/>
 
- ## 👨🏻‍💻 About Me
+## 👨🏻‍💻 About Me
 
-- 🔭 & nbsp; I am currently learning Flutter Application Development.
-- 🤔 & nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 & nbsp; Study Systems Engineering, Computer Programming.
-- 💼 & nbsp; Android developer and front-end web developer.
-- 🌱 & nbsp; Cybersecurity and artificial intelligence fan.
-- ✍️ & nbsp; Watch anime and try the latest design trends as hobbies / side activities.
-- ☕ & nbsp; I believe that a perfect cup of coffee can be the ultimate solution to any stress. 
+- 🔭 I am currently learning Flutter Application Development.
+- 🤔 Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 Study Systems Engineering, Computer Programming.
+- 💼 Android developer and front-end web developer.
+- 🌱 Cybersecurity and artificial intelligence fan.
+- ✍️ Watch anime and try the latest design trends as hobbies / side activities.
+- ☕ I believe that a perfect cup of coffee can be the ultimate solution to any stress. 
 
 ## 🔧 Technologies & Tools
 
@@ -36,6 +37,7 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/sergiogrimaldo)
 [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab)](https://github.com/sergiogrimaldo)
 
+## 🐺 Contact me
 <p align="center">
 &nbsp; <a href="https://twitter.com/Mrs_Anonymous" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
 &nbsp; <a href="https://www.instagram.com/cyborg_wizard/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
