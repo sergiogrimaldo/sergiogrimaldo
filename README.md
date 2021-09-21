@@ -1,50 +1,35 @@
-<p align="left">
-  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
-</p>
 
 ## Hi there 👋🏻‍💻  Sergio Grimaldo. 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="450"/>
+<img src="https://readme-typing-svg.herokuapp.com?color=E9B517&lines=Full+Stack+Developer+Student">
 
 ## 👨🏻‍💻 About Me
-
+- 🌎 Currently base at: Bogotá, Colombia
 - 🔭 I am currently learning Flutter Application Development.
 - 🤔 Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 Study Systems Engineering, Computer Programming.
-- 💼 Android developer and front-end web developer.
+- 🎓 Student Systems Engineering, Computer Programming.
+- <img align='center' src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/tdgwdgx9n7ubjqkhr6ew" width="20px"> Student at **[Henry](https://www.soyhenry.com/)**
 - 🌱 Cybersecurity and artificial intelligence fan.
 - ✍️ Watch anime and try the latest design trends as hobbies / side activities.
 - ☕ I believe that a perfect cup of coffee can be the ultimate solution to any stress. 
 
 ## 🔧 Technologies & Tools
 
-[![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white)](https://github.com/sergiogrimaldo) 
-[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)](https://github.com/sergiogrimaldo)
-[![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white)](https://github.com/sergiogrimaldo)
-
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)](https://github.com/sergiogrimaldo) 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://github.com/sergiogrimaldo) 
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)](https://github.com/sergiogrimaldo) 
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)](https://github.com/sergiogrimaldo)
-[![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)](https://github.com/sergiogrimaldo) 
-
-[![LeetCode](https://img.shields.io/badge/-LeetCode-02569B?style=flat&logo=leetCode)](https://github.com/sergiogrimaldo)
-[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js)](https://github.com/sergiogrimaldo)
-[![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)](https://github.com/sergiogrimaldo) 
-[![Redis](https://img.shields.io/badge/-Redis-black?style=flat&logo=redis)](https://github.com/sergiogrimaldo) 
-
-[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)](https://github.com/sergiogrimaldo)
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)](https://github.com/sergiogrimaldo) 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/sergiogrimaldo)
-[![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab)](https://github.com/sergiogrimaldo)
-
+<a href="https://www.javascript.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
+<a href="https://www.w3schools.com/html/" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
+<a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
+<a href="https://redux.js.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/redux.png"/></a>
+<a href="https://nodejs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
+<a href="https://visualstudio.microsoft.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/visual-studio.png"/></a>
+<a href="https://github.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
+<a href="https://www.figma.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/figma.png"/></a>
 ## 🐺 Contact me
 <p align="center">
+  <img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="185" height="185" />
 &nbsp; <a href="https://twitter.com/Mrs_Anonymous" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
 &nbsp; <a href="https://www.instagram.com/cyborg_wizard/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
 &nbsp; <a href="https://www.linkedin.com/in/sergio-grimaldo-26472b189/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:alejogrim56@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
-
-<img align="center" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="150">
-
 ⭐️ From [SergioGrimaldo](https://github.com/sergiogrimaldo)
