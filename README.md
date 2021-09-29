@@ -2,9 +2,9 @@
 ## Hi there 👋🏻‍💻  Sergio Grimaldo. 
 
 <img src="https://readme-typing-svg.herokuapp.com?color=E9B517&lines=Full+Stack+Developer+Student">
-
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350"/>
 ## 👨🏻‍💻 About Me
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="450"/>
+
 - 🌎 Currently base at: Bogotá, Colombia
 - 🔭 I am currently learning Flutter Application Development.
 - 🤔 Exploring new technologies and developing software solutions and quick hacks.
