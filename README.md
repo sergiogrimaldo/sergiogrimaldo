@@ -1,10 +1,10 @@
-## Hi there 👋💻 Sergio Grimaldo.
+## Hi there <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Mario_Hello_Big.gif" width="30px"> Sergio Grimaldo.
  
 <img src="https://readme-typing-svg.herokuapp.com?color=E9B517&lines=Full+Stack+Developer+Student">
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350"/>
 
-## About Me
 
+## About Me <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Earth.gif" width="24px">
+- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="300px"/>
 - 🌎 Currently base at: Bogotá, Colombia
 - 🔭 I am currently learning Flutter Application Development.
 - 🤔 Exploring new technologies and developing software solutions and quick hacks.
@@ -26,7 +26,7 @@
 <a href="https://github.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
 <a href="https://www.figma.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/figma.png"/></a>
 
-## Contact me 🐺
+# Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 
 <p align="center">
   <img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="185" height="185" />
