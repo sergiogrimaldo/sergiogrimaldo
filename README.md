@@ -44,3 +44,9 @@
 &nbsp; <a href="https://www.linkedin.com/in/sergio-grimaldo-26472b189/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:alejogrim56@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
+<br/>
+ <h4 align="center">Visitor's count :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{sergiogrimaldo}/count.svg" alt="sergiogrimaldo :: Visitor's Count" /></p>
+
+⭐️ De [Sergio Grimaldo](https://github.com/sergiogrimaldo) :man_technologist::computer:
