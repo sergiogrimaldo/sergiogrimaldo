@@ -1,4 +1,4 @@
-## Hi there <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Mario_Hello_Big.gif" width="30px"> Sergio Grimaldo.
+## Hi there <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Mario_Hello_Big.gif" width="30px">.
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Estonia&color=%2334E685&size=50&width=410&height=62&lines=Sergio+Alejandro+Grimaldo+Rinc%C3%B3n.;Full+Stack+Developer%F0%9F%8E%AE;Bogot%C3%A1%2C+Colombia;Systems+Engineering)](https://git.io/typing-svg)
 
 ## About Me <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Earth.gif" width="24px">
